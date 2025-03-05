@@ -40,6 +40,9 @@ PACKAGES="$PACKAGES luci-app-openclash"
 PACKAGES="$PACKAGES luci-i18n-homeproxy-zh-cn"
 PACKAGES="$PACKAGES openssh-sftp-server"
 PACKAGES="$PACKAGES luci-i18n-dockerman-zh-cn"
+PACKAGES="$PACKAGES luci-app-ddns-go_git-24.272.29284-d386ad6_all.ipk"
+PACKAGES="$PACKAGES luci-i18n-wechatpush-zh-cn_git-24.272.29284-d386ad6_all.ipk"
+
 # 增加几个必备组件 方便用户安装iStore
 PACKAGES="$PACKAGES fdisk"
 PACKAGES="$PACKAGES script-utils"
